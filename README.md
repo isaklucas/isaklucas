@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SONDA <br>🌱 I’m currently learning Java , Mobile<br>⚡ 
+🔭 I’m currently working on SONDA <br>🌱 I’m currently learning Java , Mobile , Python <br>⚡ 
 
 
 ## 🌐 Socials:
